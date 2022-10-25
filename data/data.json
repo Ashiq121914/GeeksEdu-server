@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "title":"Data Structures & Algorithms in Python - Self Paced",
+        "rating":"5.00",
+        "duration":"160 hours",
+        "description": "Master Data Structures & Algorithms using Python Programming! Learn to implement DSA such as: String, hashing, DP, & more in Python Language. Master DSA fundamentals now in Python & Start Learning Today!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/Data-Structures-With-Python-thumbnail.png?v=19290",
+        "price": "$49.98"
+    },
+    {
+        "id": "02",
+        "title":"Complete Interview Preparation - Self Paced",
+        "rating":"4.9",
+        "duration":"120 hours",
+        "description": "An interview-centric course designed to prepare you for the role of SDE for both product and service based companies. A placement preparation pack built with years of expertise. Prepare C++, Java, DSA, CS Theory concepts and much more!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/complete-interview-preparation-thumbnail.png?v=19290",
+        "price": "$139.98"
+    },
+    {
+        "id": "03",
+        "title":"Data Structures and Algorithms - Self Paced",
+        "rating":"5.00",
+        "duration":"170 hours",
+        "description": "Most popular course on DSA trusted by over 75,000 students! Built with years of experience by industry experts and gives you a complete package of video lectures, practice problems, quizzes, discussion forums and contests. Start Today!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png?v=19290",
+        "price": "$77.98"
+    },
+    {
+        "id": "04",
+        "title":"Python Programming Foundation -Self Paced",
+        "rating":"5.00",
+        "duration":"80 hours",
+        "description": "A beginner-friendly course designed to help start learning Python language from scratch. Learn Python basics, Variables & Data types, Input & Output, Operators, and more as you build your python foundation real strong with us!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/Python-Foundation-thumbnail.png?v=19290",
+        "price": "$13.98"
+    },
+    {
+        "id": "05",
+        "title":"Complete Test Series for Product-Based Companies",
+        "rating":"5.00",
+        "duration":"10 hours",
+        "description": "A Complete Test Series to fulfill your Interview Preparation needs. Practice 1000+ company-specific interview questions to improve your chances of getting a job at product-based companies like Amazon, Meta, Google, Microsoft & more.",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/test-series-bundle-thumbnail.png?v=19290",
+        "price": "$49.98"
+    },
+    {
+        "id": "06",
+        "title":"C++ STL - Self Paced",
+        "rating":"4.9",
+        "duration":"100 hours",
+        "description": "This self paced C++ STL Course covers the basic to advanced concepts of C++ STL containers, iterators, OOPs & more! Curated by industry experts, get a complete package of video tutorials, assessment tests, & more. Start learning today!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/cpp-stl-thumbnail.png?v=19290",
+        "price": "$33.98"
+    },
+    {
+        "id": "07",
+        "title":"System Design - Live",
+        "rating":"5.0",
+        "duration":"140 hours",
+        "description": "LIVE System Design classes for individuals looking to crack SDE,SSE,Architect,Technical PM, and SDM jobs. Mentored by industry experts, learn the optimized approach to solve questions and design concepts with real-world examples!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/system-design-live-thumbnail.png?v=19290",
+        "price": "$219.98"
+    },
+    {
+        "id": "08",
+        "title":"JAVA Backend Development - Live",
+        "rating":"5.0",
+        "duration":"130 hours",
+        "description": "Learn backend development with Hibernate, RESTful APIs and many such tools. LIVE classes to teach you Java concepts & how to develop a complete webapp. Also includes: 3 projects, doubt assistance, Java course content & more!",
+        "image":"https://media.geeksforgeeks.org/img-practice/banner/Java-backend-live-thumbnail.png?v=19290",
+        "price": "$239.98"
+    }
+]
