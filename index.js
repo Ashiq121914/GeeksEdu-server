@@ -18,6 +18,11 @@ app.get("/", (req, res) => {
 app.get("/category", (req, res) => {
   res.send(courses);
 });
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((course) => course.id === id);
+  res.send(selectedCourse);
+});
 
 app.listen(port, () => {
   console.log("geeksedu server running on port", port);
