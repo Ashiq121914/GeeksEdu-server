@@ -5,6 +5,7 @@
         "rating":"5.00",
         "duration":"160 hours",
         "description": "Master Data Structures & Algorithms using Python Programming! Learn to implement DSA such as: String, hashing, DP, & more in Python Language. Master DSA fundamentals now in Python & Start Learning Today!",
+        "course_overview":"Python is one object-oriented and open-source language that is still widely used in all the major companies. The popularity of the language is primarily due to its simplicity and elegance, but also due to the fact that it is more efficient and readable. So if you've conquered the basics of Python Programming Language, it is only understandable that you should now level up!   This self-paced course will help you master DSA Using Python Programming Language and prepare for interviews in top tech companies and for competitive coding competitions. This course will emphasize on the importance of Data Structures and how to master them in your favorite programming language. You will learn advanced DSA concepts such as: Lists, strings, graphs, and all other important alogrithm concepts that are widely asked and used in the real-world.This completely revamped course now also includes: Python support code in all Video Lectures, new Problems and Python support in all Problems, new practice questions, & much more!",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/Data-Structures-With-Python-thumbnail.png?v=19290",
         "price": "$49.98"
     },
@@ -14,6 +15,7 @@
         "rating":"4.9",
         "duration":"120 hours",
         "description": "An interview-centric course designed to prepare you for the role of SDE for both product and service based companies. A placement preparation pack built with years of expertise. Prepare C++, Java, DSA, CS Theory concepts and much more!",
+        "course_overview":"Your one-stop solution to cracking the coding interview of your dreams is here! Whether you're a college student or someone with experience, preparing for an interview requires smart learning, dedication and great resources. And this complete preparation package will help you learn 4 years' worth of programming knowledge in just 6 months!  The course has been designed to provide you the best quality content to help handle all the questions in your next coding interview with ease. Read here to learn how Complete Interview Preparation course is the perfect resource to help you get into a service-based or product-based organization of your choice.  Tackling those difficult programming interview questions will not seem like an uphill task once you practice the 200+ coding questions given in this course. Lecture videos by Mr. Sandeep Jain and other experts will help you build the confidence you require to crack your next programming interview. Learn more how this complete package can help you bridge the gap between your skills and your dream job.",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/complete-interview-preparation-thumbnail.png?v=19290",
         "price": "$139.98"
     },
@@ -23,6 +25,7 @@
         "rating":"5.00",
         "duration":"170 hours",
         "description": "Most popular course on DSA trusted by over 75,000 students! Built with years of experience by industry experts and gives you a complete package of video lectures, practice problems, quizzes, discussion forums and contests. Start Today!",
+        "course_overview":"Data Structures and Algorithms are building blocks of programming. Data structures enable us to organise and store data, whereas algorithms enable us to process that data in a meaningful sense. Then, why wait? Opt for a quality DSA Course to build & enhance your data structures and algorithms foundational skills.  This Data Structure and Algorithms (DSA) self-paced course that has been divided into 8 weeks of curriculum for your easy learning. Master the basics of DSA, practice coding questions & attempt the assessment tests from anywhere in the world! The questions in this self paced course will further help you to prepare for SDE interviews with top-notch companies like Microsoft, Amazon, Adobe and other top product based companies. This course does not require any prior knowledge of Data Structure and Algorithms and it covers all topics in two languages: C++ and Java. You will also learn algorithmic techniques for solving various problems, get to learn important topics for interviews and get fluent in the basics of programming. You will master all the important topics of data structures and algorithms like sorting, strings, heaps, DP, searching, trees and more and even learn this concepts by practicing on real-world projects.",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png?v=19290",
         "price": "$77.98"
     },
@@ -31,6 +34,7 @@
         "title":"Python Programming Foundation -Self Paced",
         "rating":"5.00",
         "duration":"80 hours",
+        "course_overview":"This self-paced course has been designed for absolute beginners who wish to kickstart and build their foundations of Python programming language. Get in-depth knowledge of Functions, Loops, Strings, Lists and learn how to solve coding problems efficiently in python.Python is an in-demand programming language that can help you unlock the door to a better paying job. So whether you're a new programmer trying to learn new skills or an experienced coder looking to expand your knowledge, this self-paced course can help you match your skills with your ambitions.",
         "description": "A beginner-friendly course designed to help start learning Python language from scratch. Learn Python basics, Variables & Data types, Input & Output, Operators, and more as you build your python foundation real strong with us!",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/Python-Foundation-thumbnail.png?v=19290",
         "price": "$13.98"
@@ -41,6 +45,7 @@
         "rating":"5.00",
         "duration":"10 hours",
         "description": "A Complete Test Series to fulfill your Interview Preparation needs. Practice 1000+ company-specific interview questions to improve your chances of getting a job at product-based companies like Amazon, Meta, Google, Microsoft & more.",
+        "course_overview":"Many CS graduates and coding enthusiasts apply for SDE/Technical Jobs at product-based startups as well as big tech giants like Amazon, Google, Microsoft, Paytm, Swiggy, and the list just goes on, but many of us do not have an idea as to where to start. Well, if you are also stuck at this point, you need to check out our Complete Test Series for acing the technical interview rounds. If you are preparing for tech interviews for any product-based company, learning through proper guidance and path is INDEED critical. This Complete Test Series is designed by leading industry experts who have put their years of experience for you to get a curated list of Important technical interview questions commonly asked by top-notch product based companies in their technical coding rounds.n addition to these, the coding problems keep on updating from time to time which will surely take your interview preparation to the next level. which will help you learn and practice a variety of different topics like Arrays, Searching, Sorting, Matrix and much more while getting exposure to a real placement test environment and interview experiences.",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/test-series-bundle-thumbnail.png?v=19290",
         "price": "$49.98"
     },
@@ -50,6 +55,7 @@
         "rating":"4.9",
         "duration":"100 hours",
         "description": "This self paced C++ STL Course covers the basic to advanced concepts of C++ STL containers, iterators, OOPs & more! Curated by industry experts, get a complete package of video tutorials, assessment tests, & more. Start learning today!",
+        "course_overview":"The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, etc. In essence, STL is a library of container classes, algorithms, and iterators that help you in writing clean and efficient code.In this course, you will cover the basics of C++ and get an in-depth explanations to all C++ STL containers, iterators, and more along with video explanations of a few problems. You will also learn to use STL inbuilt classes and functions that help you implement complex data structures with ease.A lot of companies look for programmers who can write clean and efficient code. And C++ STL can so help you in cracking your coding interviews by teaching you the skill of writing clean code that can save a lot of time.",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/cpp-stl-thumbnail.png?v=19290",
         "price": "$33.98"
     },
@@ -59,6 +65,7 @@
         "rating":"5.0",
         "duration":"140 hours",
         "description": "LIVE System Design classes for individuals looking to crack SDE,SSE,Architect,Technical PM, and SDM jobs. Mentored by industry experts, learn the optimized approach to solve questions and design concepts with real-world examples!",
+        "course_overview":"It is time to become a success story instead of reading one. This is an interview-centric high level course in which the content has been designed in a manner that will prepare you for System Design rounds asked in all tech giants. Get mentored by industry experts having first-hand experience designing, developing, and maintaining scalable systems. In these live classes, you will be taught with the help of real-world examples.Get Instant Complimentary Access to OOAD course content:Introduction to Objects and Classes,Software Development Process,UML and its importance,Class Diagrams & Object Diagrams,Use-case Diagrams,10+ Case studies to practice before sessions",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/system-design-live-thumbnail.png?v=19290",
         "price": "$219.98"
     },
@@ -68,6 +75,7 @@
         "rating":"5.0",
         "duration":"130 hours",
         "description": "Learn backend development with Hibernate, RESTful APIs and many such tools. LIVE classes to teach you Java concepts & how to develop a complete webapp. Also includes: 3 projects, doubt assistance, Java course content & more!",
+        "course_overview":"A course designed by industry experts to help you learn advanced Java, Spring/Spring Boot, Hibernate, RESTful APIs, Micro-services & related technologies to build Java-based web applications. You will be guided by industry experts having hands-on experience with many JAVA projects. During the live classes, you will also get to work on 1 major & 2 minor projects based on real-world applications with guided lab sessions, thus giving you a hands-on experience on the practicality of Java Backend Development. These are live and interactive sessions so you can ask your doubts with ease!",
         "image":"https://media.geeksforgeeks.org/img-practice/banner/Java-backend-live-thumbnail.png?v=19290",
         "price": "$239.98"
     }
